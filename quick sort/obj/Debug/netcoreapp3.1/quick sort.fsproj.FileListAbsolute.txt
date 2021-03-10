@@ -1,0 +1,3 @@
+/home/perdomix/RiderProjects/Bars_group/quick sort/obj/Debug/netcoreapp3.1/quick sort.fsprojAssemblyReference.cache
+/home/perdomix/RiderProjects/Bars_group/quick sort/obj/Debug/netcoreapp3.1/quick sort.AssemblyInfoInputs.cache
+/home/perdomix/RiderProjects/Bars_group/quick sort/obj/Debug/netcoreapp3.1/quick sort.AssemblyInfo.fs

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZD4SBQnsoN6zHNu6ca6okM/DoHc+x+kms1zn/ZbGl22YlRz30KMGHAjYbYCg/Z8FmYWCyGYQlSEEJRr+DEw2ug==",
+  "success": true,
+  "projectFilePath": "/home/perdomix/RiderProjects/Bars_group/quick sort/quick sort.fsproj",
+  "expectedPackageFiles": [
+    "/home/perdomix/.nuget/packages/fsharp.core/4.7.2/fsharp.core.4.7.2.nupkg.sha512"
+  ],
+  "logs": []
+}
