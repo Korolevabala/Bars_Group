@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "exechnik/1.0.0": {
+        "dependencies": {
+          "Class_Car_Bars_group": "1.0.0.0"
+        },
+        "runtime": {
+          "exechnik.dll": {}
+        }
+      },
+      "Class_Car_Bars_group/1.0.0.0": {
+        "runtime": {
+          "Class_Car_Bars_group.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "exechnik/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Class_Car_Bars_group/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

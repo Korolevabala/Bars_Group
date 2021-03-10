@@ -1,0 +1,16 @@
+/home/perdomix/RiderProjects/Bars_group/Ex3/exechnik/bin/Debug/netcoreapp3.1/exechnik
+/home/perdomix/RiderProjects/Bars_group/Ex3/exechnik/bin/Debug/netcoreapp3.1/exechnik.deps.json
+/home/perdomix/RiderProjects/Bars_group/Ex3/exechnik/bin/Debug/netcoreapp3.1/exechnik.runtimeconfig.json
+/home/perdomix/RiderProjects/Bars_group/Ex3/exechnik/bin/Debug/netcoreapp3.1/exechnik.runtimeconfig.dev.json
+/home/perdomix/RiderProjects/Bars_group/Ex3/exechnik/bin/Debug/netcoreapp3.1/exechnik.dll
+/home/perdomix/RiderProjects/Bars_group/Ex3/exechnik/bin/Debug/netcoreapp3.1/exechnik.pdb
+/home/perdomix/RiderProjects/Bars_group/Ex3/exechnik/bin/Debug/netcoreapp3.1/Class_Car_Bars_group.dll
+/home/perdomix/RiderProjects/Bars_group/Ex3/exechnik/bin/Debug/netcoreapp3.1/Class_Car_Bars_group.pdb
+/home/perdomix/RiderProjects/Bars_group/Ex3/exechnik/obj/Debug/netcoreapp3.1/exechnik.csprojAssemblyReference.cache
+/home/perdomix/RiderProjects/Bars_group/Ex3/exechnik/obj/Debug/netcoreapp3.1/exechnik.AssemblyInfoInputs.cache
+/home/perdomix/RiderProjects/Bars_group/Ex3/exechnik/obj/Debug/netcoreapp3.1/exechnik.AssemblyInfo.cs
+/home/perdomix/RiderProjects/Bars_group/Ex3/exechnik/obj/Debug/netcoreapp3.1/exechnik.csproj.CoreCompileInputs.cache
+/home/perdomix/RiderProjects/Bars_group/Ex3/exechnik/obj/Debug/netcoreapp3.1/exechnik.csproj.CopyComplete
+/home/perdomix/RiderProjects/Bars_group/Ex3/exechnik/obj/Debug/netcoreapp3.1/exechnik.dll
+/home/perdomix/RiderProjects/Bars_group/Ex3/exechnik/obj/Debug/netcoreapp3.1/exechnik.pdb
+/home/perdomix/RiderProjects/Bars_group/Ex3/exechnik/obj/Debug/netcoreapp3.1/exechnik.genruntimeconfig.cache

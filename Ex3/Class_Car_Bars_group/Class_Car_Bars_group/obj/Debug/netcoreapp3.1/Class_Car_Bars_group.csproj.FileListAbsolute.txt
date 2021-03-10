@@ -1,0 +1,9 @@
+/home/perdomix/RiderProjects/Bars_group/Ex3/Class_Car_Bars_group/Class_Car_Bars_group/bin/Debug/netcoreapp3.1/Class_Car_Bars_group.deps.json
+/home/perdomix/RiderProjects/Bars_group/Ex3/Class_Car_Bars_group/Class_Car_Bars_group/bin/Debug/netcoreapp3.1/Class_Car_Bars_group.dll
+/home/perdomix/RiderProjects/Bars_group/Ex3/Class_Car_Bars_group/Class_Car_Bars_group/bin/Debug/netcoreapp3.1/Class_Car_Bars_group.pdb
+/home/perdomix/RiderProjects/Bars_group/Ex3/Class_Car_Bars_group/Class_Car_Bars_group/obj/Debug/netcoreapp3.1/Class_Car_Bars_group.csprojAssemblyReference.cache
+/home/perdomix/RiderProjects/Bars_group/Ex3/Class_Car_Bars_group/Class_Car_Bars_group/obj/Debug/netcoreapp3.1/Class_Car_Bars_group.AssemblyInfoInputs.cache
+/home/perdomix/RiderProjects/Bars_group/Ex3/Class_Car_Bars_group/Class_Car_Bars_group/obj/Debug/netcoreapp3.1/Class_Car_Bars_group.AssemblyInfo.cs
+/home/perdomix/RiderProjects/Bars_group/Ex3/Class_Car_Bars_group/Class_Car_Bars_group/obj/Debug/netcoreapp3.1/Class_Car_Bars_group.csproj.CoreCompileInputs.cache
+/home/perdomix/RiderProjects/Bars_group/Ex3/Class_Car_Bars_group/Class_Car_Bars_group/obj/Debug/netcoreapp3.1/Class_Car_Bars_group.dll
+/home/perdomix/RiderProjects/Bars_group/Ex3/Class_Car_Bars_group/Class_Car_Bars_group/obj/Debug/netcoreapp3.1/Class_Car_Bars_group.pdb
