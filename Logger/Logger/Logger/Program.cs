@@ -12,6 +12,18 @@ namespace Logger
     {
 
         public string directory_path = @"home/perdomix/RiderProjects/Bars_Group/Logger";
+        public string directory_path2 = null;
+        public string endPath = null;
+
+        public  string Path()
+        {
+            directory_path2 = DateTime.Now.ToString("dd MMMM yyyy | HH:mm:ss");
+            return (directory_path + directory_path2);
+        }
+        public string DirectoryCreate()
+        {
+            Directory.CreateDirectory(Path());
+        }
         private String CurrentDirectory
         {
             get;
@@ -60,7 +72,7 @@ namespace Logger
         {
           
             var logger = new Logger();
-            logger.Log("Soumil Nitin Shah");
+            // logger.Log();
 
         }
     }
